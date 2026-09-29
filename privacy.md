@@ -91,4 +91,4 @@ If the app's handling of data changes, we'll update this page and its effective 
 
 ## Contact
 
-Questions about privacy: [{{ site.support_email }}](mailto:{{ site.support_email }})
+Questions about privacy: utilio.apps@gmail.com
