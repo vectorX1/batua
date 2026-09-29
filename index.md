@@ -5,7 +5,7 @@ permalink: /privacy.html
 
 # Batua privacy policy
 
-**Effective date:** October 1, 2027
+**Effective date:** October 1, 2026
 
 This policy explains what the Batua Android app ("Batua", "the app") stores, where it stores it, and what it does with it. Batua is published by **Utilio Apps** ("we", "us").
 
